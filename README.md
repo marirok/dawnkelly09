@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dawn Kelly
+- 👋 Hi, I’m Dawn
 - 👀 I’m an entrepreneur, cannabis advocate, and software developer.
 - 🌱 Always learning something new.  
 - 💞️ Other orgs: Developer DAO, Women Build Web3, BuildSpace alumni
